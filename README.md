@@ -64,9 +64,9 @@ Hotel Ramadha is a famous restaurant located in Yakkala, where same scenario is 
 
 <p><img src="screenshot/Annotation15.png"  alt="screenshot"/><p>
   
-We have adapted our restaurant application program to satisfy the MVC pattern and 3 Tier architecture.
+<p>We have adapted our restaurant application program to satisfy the MVC pattern and 3 Tier architecture.<p>
 
-<h4>Model</h4>
+<h3>Model</h3>
 <p>This is the layer in MVC architecture which is responsible for dealing with logics and database.  In our restaurant application we have grouped the data into different categories according to their behaviors.<p>
 <dl>
   <dt>ConnectServer class</dt>
@@ -87,7 +87,7 @@ We have adapted our restaurant application program to satisfy the MVC pattern an
  
 
 
-<h4>Controller</h4>
+<h3>Controller</h3>
 <p>This layer represents the reflection of the Model in interactive manner via a User Interface. In our application we have several forms to access different layers of hierarchy in the organization<p>
   <p>
 <dl>
@@ -131,7 +131,7 @@ We have adapted our restaurant application program to satisfy the MVC pattern an
  <p>
 
 
-<h4>View</h4>
+<h3>View</h3>
 <p>This layer is the notification layer for the Model about the user behavior. But since we are dealing with and windows application view has nothing to notify the model.<p>
 
 <h2>Target Users of the Application</h2>
@@ -161,5 +161,44 @@ We have adapted our restaurant application program to satisfy the MVC pattern an
 <p>Login Form<p>
 <p><img src="screenshot/Annotation1.png"  alt="screenshot"/><p>
 
+<p>Manager Home Page<p>  
+<p><img src="screenshot/Annotation2.png"  alt="screenshot"/><p>
 
+<p>Register Employee Form<p>
+<p><img src="screenshot/Annotation3.png"  alt="screenshot"/><p>
+  
+<p>Salary Report Form<p>
+<p><img src="screenshot/Annotation4.png"  alt="screenshot"/><p>
+
+<p>Employee Report Form<p>
+<p><img src="screenshot/Annotation5.png"  alt="screenshot"/><p>
+      
+<p>Profitability Report Form<p>      
+<p><img src="screenshot/Annotation6.png"  alt="screenshot"/><p>
+
+<p>Accountant Home Page<p>
+<p><img src="screenshot/Annotation7.png"  alt="screenshot"/><p>
+      
+<p>Income Form<p>      
+<p><img src="screenshot/Annotation8.png"  alt="screenshot"/><p>
+
+<p>Profit/Loss Form<p>
+<p><img src="screenshot/Annotation9.png"  alt="screenshot"/><p>
+  
+<p>Payroll Home Page<p>
+<p><img src="screenshot/Annotation10.png"  alt="screenshot"/><p> 
+   
+<p>Salary Calculation Form<p>
+<p><img src="screenshot/Annotation11.png"  alt="screenshot"/><p>  
+    
+<p>Advance/Loan Form<p>
+<p><img src="screenshot/Annotation12.png"  alt="screenshot"/><p>  
+     
+<p>Cashier Area Form<p>
+<p><img src="screenshot/Annotation13.png"  alt="screenshot"/><p>  
+  
+    
+<p>Delivery Agent Form<p>
+<p><img src="screenshot/Annotation14.png"  alt="screenshot"/><p>  
+  
 
