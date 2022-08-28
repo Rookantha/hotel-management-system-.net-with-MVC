@@ -1,4 +1,4 @@
-# HotelManagementSystem
+# hotel-management-system-c-sharp-.net-with-MVC
 
 <h2>Introduction</h2>
 
